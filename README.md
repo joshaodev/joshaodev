@@ -1,6 +1,8 @@
 # Olá! Eu sou o Josemar Oatanha 👋
 
-### Encontra - me em:
+
+
+### Encontra-me em:
 [![Gmail Badge](https://img.shields.io/badge/-joseoatanha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:joseoatanha@gmail.com)
 
 ----
@@ -25,4 +27,5 @@
 ![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
 
 ------
+  
 Última actualização: 08/05/2022
