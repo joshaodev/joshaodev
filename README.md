@@ -4,6 +4,11 @@
 
 ![Joshaodev GitHub stats](https://github-readme-stats.vercel.app/api?username=joshaodev&show_icons=true&theme=radical) 
 
+<a href="https://github.com/Nishant1500?tab=overview">
+<img align="center" alt="Nish's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1500&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant1500&theme=radical" alt="More Nish Stats" /></p>
+</a>
+
 ### Tecnologias que eu uso no meu dia:
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
