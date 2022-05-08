@@ -1,5 +1,4 @@
 # Olá! Eu sou o Josemar Oatanha 👋
-----
 [![Gmail Badge](https://img.shields.io/badge/-joseoatanha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:joseoatanha@gmail.com)
 
 ----
@@ -18,11 +17,12 @@
 ## GitHub Statistics
 ![joshaodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshaodev&show_icons=true&theme=radical) 
 <a href="https://github.com/Nishant1500?tab=overview"><img align="center" alt="joshaodev's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshaodev&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
-
+  
+----
+  
 ![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
 
 ### Obrigado por visitar meu perfil 🤓 
 
 ------
-
 Última actualização: 08/05/2022
