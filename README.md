@@ -1,4 +1,6 @@
-### Olá! Eu sou o Josemar Oatanha 👋
+# Olá! Eu sou o Josemar Oatanha 👋
+
+[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:joseoatanha@gmail.com)
 
 ![Joshaodev GitHub stats](https://github-readme-stats.vercel.app/api?username=joshaodev&show_icons=true&theme=radical) 
 
